@@ -10,31 +10,31 @@ app.use(express.json());
 var templates = [
   {
     name: 'Template 1',
-    html: 'I am a template!'
+    html: 'I am an MIT template!'
   },
   {
     name: 'Template 2',
-    html: 'I am a different template 2!'
+    html: 'I am a different MIT template 2!'
   },
   {
     name: 'Template 3',
-    html: 'I am a different template 3!'
+    html: 'I am a different MIT template 3!'
   },
   {
     name: 'Template 4',
-    html: 'I am a different template 4!'
+    html: 'I am a different MIT template 4!'
   },
   {
     name: 'Template 5',
-    html: 'I am a different template 5!'
+    html: 'I am a different MIT template 5!'
   },
   {
     name: 'Template 6',
-    html: 'I am a different template 6!'
+    html: 'I am a different MIT template 6!'
   },
   {
     name: 'Template 7',
-    html: 'I am a different template 7!'
+    html: 'I am a different MIT template 7!'
   }
 ];
 
