@@ -10,11 +10,31 @@ app.use(express.json());
 var templates = [
   {
     name: 'Template 1',
-    html: '\nI am a template!\n'
+    html: 'I am a template!'
   },
   {
     name: 'Template 2',
-    html: '\nI am a different template!\n'
+    html: 'I am a different template 2!'
+  },
+  {
+    name: 'Template 3',
+    html: 'I am a different template 3!'
+  },
+  {
+    name: 'Template 4',
+    html: 'I am a different template 4!'
+  },
+  {
+    name: 'Template 5',
+    html: 'I am a different template 5!'
+  },
+  {
+    name: 'Template 6',
+    html: 'I am a different template 6!'
+  },
+  {
+    name: 'Template 7',
+    html: 'I am a different template 7!'
   }
 ];
 
